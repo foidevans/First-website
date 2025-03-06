@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Courier New", Courier, monospace;
+  font-style: italic;
+  font-size: 24px;
+  text-align: center;
+}
+
+h5 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 16px;
+  font-style: oblique;
+}
+
+span {
+  font-size: 20px;
+  font-weight: bold;
+  font-variant: small-caps;
+  display: block;
+  margin-top: 10px;
+}
+
+ul,
+ol {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  line-height: 1.8;
+}
+
+li {
+  font-weight: 500;
+}
+
+a {
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
